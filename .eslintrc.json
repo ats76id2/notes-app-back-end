@@ -23,6 +23,8 @@
         "max-len":"off",
         "no-underscore-dangle":"off",
         "no-empty-function":"off",
-        "constructor-super":"off"
+        "constructor-super":"off",
+        "camelcase":"off",
+        "arrow-parens":"off"
     }
 }
