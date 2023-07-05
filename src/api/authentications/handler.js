@@ -128,6 +128,6 @@ class AuthenticationsHandler {
             return response;
         }
     }
-};
+}
 
 module.exports = AuthenticationsHandler;
